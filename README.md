@@ -1,2 +1,2 @@
-# Quiz-Bot
-Um bot de Discord para ajudar a selecionar perguntas para um quiz. 
+# Quiz Bot
+Criado para auxiliar o funcionamento das reuniões do Cine Club Ifal. 
